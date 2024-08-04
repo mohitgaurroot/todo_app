@@ -11,6 +11,7 @@
 2. Run the following command to fetch the necessary dependencies
     flutter pub get
 
+
 ## Run/Execute
 First of all, Flutter, along with the programming language Dart, needs to be installed on the system. The Flutter SDK can be downloaded from https://flutter.dev/docs/get-started/install. Note, the Dart SDK is bundled with Flutter; it is not necessary to install Dart separately. The command `flutter doctor` can come in handy to check if everything is set up correctly.
 
